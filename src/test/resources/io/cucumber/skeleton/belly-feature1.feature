@@ -1,4 +1,4 @@
-@hotdog
+@wip
 Feature: Hotdog
 
   Scenario: a few hotdogs
