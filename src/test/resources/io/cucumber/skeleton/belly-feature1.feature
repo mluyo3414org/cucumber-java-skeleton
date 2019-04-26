@@ -1,6 +1,6 @@
 @wip
-@feature
-Feature: Hotdog
+@feature-1
+Feature: Belly New Feature
 
   Scenario: a few hotdogs
     Given I have 24 hotdogs in my belly
