@@ -20,4 +20,9 @@ public class Stepdefs {
     public void my_belly_should_growl() {
         System.out.println("My belly is growling");
     }
+    @Given("I have {int} hotdogs in my belly")
+    public void i_have_hotdogs_in_my_belly(Integer int1) {
+        // Write code here that turns the phrase above into concrete actions
+        System.out.println("My still have hotdogs in my belly");
+    }
 }
