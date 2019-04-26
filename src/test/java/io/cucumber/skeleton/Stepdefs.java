@@ -8,4 +8,13 @@ public class Stepdefs {
         Belly belly = new Belly();
         belly.eat(cukes);
     }
+    @When("I wait {int} hour")
+    public void i_wait_hour(Integer int1) {
+       System.out.println("I waited");
+    }
+
+    @Then("my belly should growl")
+    public void my_belly_should_growl() {
+        System.out.println("My belly is growling");
+    }
 }
