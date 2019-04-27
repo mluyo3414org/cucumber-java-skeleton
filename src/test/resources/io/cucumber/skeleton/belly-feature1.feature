@@ -1,4 +1,3 @@
-@wip
 @feature-1
 Feature: Hotdog
 
