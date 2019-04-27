@@ -1,4 +1,3 @@
-@completed
 @master
 Feature: Belly
 
