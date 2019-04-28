@@ -1,4 +1,4 @@
-@feature-3
+@master
 Feature: Sodas
 
   Scenario: a few sodas
