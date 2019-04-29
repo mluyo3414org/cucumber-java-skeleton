@@ -1,4 +1,4 @@
-@feature-4
+@master
 Feature: Hotdog-2
 
   Scenario: a few hotdogs
